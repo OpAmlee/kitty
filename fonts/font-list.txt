@@ -1,0 +1,137 @@
+BlexMono Nerd Font
+    Blex Mono Bold Italic Nerd Font Complete
+    Blex Mono Bold Nerd Font Complete
+    Blex Mono ExtraLight Italic Nerd Font Complete
+    Blex Mono ExtraLight Nerd Font Complete
+    Blex Mono Italic Nerd Font Complete
+    Blex Mono Light Italic Nerd Font Complete
+    Blex Mono Light Nerd Font Complete
+    Blex Mono Medium Italic Nerd Font Complete
+    Blex Mono Medium Nerd Font Complete
+    Blex Mono Nerd Font Complete
+    Blex Mono SemiBold Italic Nerd Font Complete
+    Blex Mono SemiBold Nerd Font Complete
+    Blex Mono Text Italic Nerd Font Complete
+    Blex Mono Text Nerd Font Complete
+    Blex Mono Thin Italic Nerd Font Complete
+    Blex Mono Thin Nerd Font Complete
+
+BlexMono Nerd Font Mono
+    Blex Mono Bold Italic Nerd Font Complete Mono
+    Blex Mono Bold Nerd Font Complete Mono
+    Blex Mono ExtraLight Italic Nerd Font Complete Mono
+    Blex Mono ExtraLight Nerd Font Complete Mono
+    Blex Mono Italic Nerd Font Complete Mono
+    Blex Mono Light Italic Nerd Font Complete Mono
+    Blex Mono Light Nerd Font Complete Mono
+    Blex Mono Medium Italic Nerd Font Complete Mono
+    Blex Mono Medium Nerd Font Complete Mono
+    Blex Mono Nerd Font Complete Mono
+    Blex Mono SemiBold Italic Nerd Font Complete Mono
+    Blex Mono SemiBold Nerd Font Complete Mono
+    Blex Mono Text Italic Nerd Font Complete Mono
+    Blex Mono Text Nerd Font Complete Mono
+    Blex Mono Thin Italic Nerd Font Complete Mono
+    Blex Mono Thin Nerd Font Complete Mono
+
+BlexMono NF
+    Blex Mono Bold Italic Nerd Font Complete Mono Windows Compatible
+    Blex Mono Bold Italic Nerd Font Complete Windows Compatible
+    Blex Mono Bold Nerd Font Complete Mono Windows Compatible
+    Blex Mono Bold Nerd Font Complete Windows Compatible
+    Blex Mono ExtraLight Italic Nerd Font Complete Mono Windows Compatible
+    Blex Mono ExtraLight Italic Nerd Font Complete Windows Compatible
+    Blex Mono ExtraLight Nerd Font Complete Mono Windows Compatible
+    Blex Mono ExtraLight Nerd Font Complete Windows Compatible
+    Blex Mono Italic Nerd Font Complete Mono Windows Compatible
+    Blex Mono Italic Nerd Font Complete Windows Compatible
+    Blex Mono Light Italic Nerd Font Complete Mono Windows Compatible
+    Blex Mono Light Italic Nerd Font Complete Windows Compatible
+    Blex Mono Light Nerd Font Complete Mono Windows Compatible
+    Blex Mono Light Nerd Font Complete Windows Compatible
+    Blex Mono Medium Italic Nerd Font Complete Mono Windows Compatible
+    Blex Mono Medium Italic Nerd Font Complete Windows Compatible
+    Blex Mono Medium Nerd Font Complete Mono Windows Compatible
+    Blex Mono Medium Nerd Font Complete Windows Compatible
+    Blex Mono Nerd Font Complete Mono Windows Compatible
+    Blex Mono Nerd Font Complete Windows Compatible
+    Blex Mono SemiBold Italic Nerd Font Complete Mono Windows Compatible
+    Blex Mono SemiBold Italic Nerd Font Complete Windows Compatible
+    Blex Mono SemiBold Nerd Font Complete Mono Windows Compatible
+    Blex Mono SemiBold Nerd Font Complete Windows Compatible
+    Blex Mono Text Italic Nerd Font Complete Mono Windows Compatible
+    Blex Mono Text Italic Nerd Font Complete Windows Compatible
+    Blex Mono Text Nerd Font Complete Mono Windows Compatible
+    Blex Mono Text Nerd Font Complete Windows Compatible
+    Blex Mono Thin Italic Nerd Font Complete Mono Windows Compatible
+    Blex Mono Thin Italic Nerd Font Complete Windows Compatible
+    Blex Mono Thin Nerd Font Complete Mono Windows Compatible
+    Blex Mono Thin Nerd Font Complete Windows Compatible
+
+Courier 10 Pitch
+    Courier 10 Pitch Bold
+    Courier 10 Pitch Bold Italic
+    Courier 10 Pitch Italic
+    Courier 10 Pitch Regular
+
+DejaVu Sans Mono
+    DejaVu Sans Mono
+    DejaVu Sans Mono Bold
+    DejaVu Sans Mono Bold Oblique
+    DejaVu Sans Mono Oblique
+
+FreeMono
+    FreeMono
+    FreeMono Bold
+    FreeMono Bold Oblique
+    FreeMono Oblique
+
+GoMono Nerd Font
+    Go Mono Bold Italic Nerd Font Complete
+    Go Mono Bold Nerd Font Complete
+    Go Mono Italic Nerd Font Complete
+    Go Mono Nerd Font Complete
+
+GoMono Nerd Font Mono
+    Go Mono Bold Italic Nerd Font Complete Mono
+    Go Mono Bold Nerd Font Complete Mono
+    Go Mono Italic Nerd Font Complete Mono
+    Go Mono Nerd Font Complete Mono
+
+Hack
+    Hack Bold
+    Hack Bold Italic
+    Hack Italic
+    Hack Regular
+
+Liberation Mono
+    Liberation Mono
+    Liberation Mono
+    Liberation Mono Bold
+    Liberation Mono Bold
+    Liberation Mono Bold Italic
+    Liberation Mono Bold Italic
+    Liberation Mono Italic
+    Liberation Mono Italic
+
+Material Icons
+    Material Icons
+
+Nimbus Mono L
+    Nimbus Mono L Bold
+    Nimbus Mono L Regular
+    Nimbus Mono L Regular Oblique
+
+Nimbus Mono PS
+    Nimbus Mono PS Bold
+    Nimbus Mono PS Bold Italic
+    Nimbus Mono PS Italic
+    Nimbus Mono PS Regular
+    NimbusMonoPS-Bold
+    NimbusMonoPS-BoldItalic
+    NimbusMonoPS-Italic
+    NimbusMonoPS-Regular
+
+Noto Mono
+    Noto Mono
+
